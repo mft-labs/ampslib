@@ -1,6 +1,8 @@
 # AmpsLib
 
-**TODO: Add description**
+## Description
+
+Useful library functions
 
 ## Installation
 
